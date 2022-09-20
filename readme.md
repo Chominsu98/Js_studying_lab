@@ -1,0 +1,1 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=63a1ff&height=300&section=header&text=JSStudyingLab&fontSize=70&animation=fadeIn&fontAlignY=38&desc=자바스크립트로_다양한구현_연습&descAlignY=60&fontColor=ffffff)
