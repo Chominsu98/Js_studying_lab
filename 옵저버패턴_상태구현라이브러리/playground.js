@@ -1,4 +1,4 @@
-import {todoStore,add_todo,get_todos} from "./reducer.js";
+import {todoStore,add_todo,get_todos} from "./reducer";
 
 
 console.log(todoStore.getState());
